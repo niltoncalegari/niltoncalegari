@@ -32,4 +32,3 @@
 <br>
 <br>
 </div>
-![Snake animation](https://github.com/niltoncalegari/niltoncalegari/blob/output/github-contribution-grid-snake.svg)
