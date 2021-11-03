@@ -29,7 +29,7 @@
 <a href="https://www.instagram.com/niltoncalegari/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="dephraiim" height="30" width="75" /></a>
   <a href="https://dev.to/niltoncalegari" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dephraiim" height="30" width="75" /></a>
 </p>
-  ![Snake animation](https://github.com/niltoncalegari/niltoncalegari/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
 </div>
+![Snake animation](https://github.com/niltoncalegari/niltoncalegari/blob/output/github-contribution-grid-snake.svg)
