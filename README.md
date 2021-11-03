@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niltoncalegari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltoncalegari&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    ##
  <br>
 <br>
 <div align="center" style="display: inline_block">
@@ -19,7 +20,7 @@
   <img align="center" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/unityeditoricon_103179.png" /> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 </div>
-  ##
+  
 <div>
 <br>
 <br>
